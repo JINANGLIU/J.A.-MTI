@@ -1,4 +1,4 @@
 # JA-MTI
 Classroom practice
-Jinang Liu
+Jinang Liu (J.A.)
 s3855773
